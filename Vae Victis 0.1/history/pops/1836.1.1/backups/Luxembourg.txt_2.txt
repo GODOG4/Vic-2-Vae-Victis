@@ -1,0 +1,160 @@
+#Luxembourg (172000)
+#In personal union with Netherlands in 1836
+#Luxembourg (172000/43000 POPS)
+397 = {
+    aristocrats = {
+        culture = belgae
+        religion = placeholder
+        size = 105
+    }
+
+    bureaucrats = {
+        culture = belgae
+        religion = placeholder
+        size = 75
+    }
+
+    clergymen = {
+        culture = belgae
+        religion = placeholder
+        size = 90
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 451
+    }
+
+    soldiers = {
+        culture = belgae
+        religion = placeholder
+        size = 1204
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 8970
+    }
+
+    aristocrats = {
+        culture = belgae
+        religion = placeholder
+        size = 150
+    }
+
+    officers = {
+        culture = belgae
+        religion = placeholder
+        size = 30
+    }
+
+    bureaucrats = {
+        culture = belgae
+        religion = placeholder
+        size = 150
+    }
+
+    clergymen = {
+        culture = belgae
+        religion = placeholder
+        size = 165
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 1053
+    }
+
+    soldiers = {
+        culture = belgae
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 14071
+    }
+
+    aristocrats = {
+        culture = gaul
+        religion = placeholder
+        size = 17
+    }
+
+    bureaucrats = {
+        culture = gaul
+        religion = placeholder
+        size = 12
+    }
+
+    clergymen = {
+        culture = gaul
+        religion = placeholder
+        size = 15
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 74
+    }
+
+    soldiers = {
+        culture = gaul
+        religion = placeholder
+        size = 196
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 1460
+    }
+
+    aristocrats = {
+        culture = gaul
+        religion = placeholder
+        size = 25
+    }
+
+    officers = {
+        culture = gaul
+        religion = placeholder
+        size = 5
+    }
+
+    bureaucrats = {
+        culture = gaul
+        religion = placeholder
+        size = 25
+    }
+
+    clergymen = {
+        culture = gaul
+        religion = placeholder
+        size = 27
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 172
+    }
+
+    soldiers = {
+        culture = gaul
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 2291
+    }
+}

@@ -1,0 +1,90 @@
+#Uruguay Region (200000)
+#Under rule of Uruguay 1836
+#Paysandu (36000/9000 POPS)
+2345 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 489
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 182
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1099
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2692
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 17808
+    }
+}
+#Melo (40000/10000 POPS)
+2347 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 364
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 120
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 854
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2692
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 13339
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 67
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 211
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 33
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3936
+    }
+}

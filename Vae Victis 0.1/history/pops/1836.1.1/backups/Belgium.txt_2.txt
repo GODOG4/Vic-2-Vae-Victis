@@ -1,0 +1,1849 @@
+#Flanders Region (2558000)
+#Brussels (772000/193000 POPS)
+387 = {
+    clergymen = {
+        culture = belgae
+        religion = placeholder
+        size = 90
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 36
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 181
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 1174
+    }
+
+    aristocrats = {
+        culture = belgae
+        religion = placeholder
+        size = 1354
+    }
+
+    officers = {
+        culture = belgae
+        religion = placeholder
+        size = 181
+    }
+
+    bureaucrats = {
+        culture = belgae
+        religion = placeholder
+        size = 3612
+    }
+
+    clergymen = {
+        culture = belgae
+        religion = placeholder
+        size = 1466
+    }
+
+    capitalists = {
+        culture = belgae
+        religion = placeholder
+        size = 45
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 740
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 8958
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 6321
+    }
+
+    soldiers = {
+        culture = belgae
+        religion = placeholder
+        size = 2709
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 108381
+    }
+
+    aristocrats = {
+        culture = belgae
+        religion = placeholder
+        size = 271
+    }
+
+    officers = {
+        culture = belgae
+        religion = placeholder
+        size = 406
+    }
+
+    bureaucrats = {
+        culture = belgae
+        religion = placeholder
+        size = 7224
+    }
+
+    clergymen = {
+        culture = belgae
+        religion = placeholder
+        size = 225
+    }
+
+    capitalists = {
+        culture = belgae
+        religion = placeholder
+        size = 135
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 217
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 3251
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 7224
+    }
+
+    soldiers = {
+        culture = belgae
+        religion = placeholder
+        size = 993
+    }
+
+    labourers = {
+        culture = belgae
+        religion = placeholder
+        size = 5102
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 54
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 271
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 1110
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 13437
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 325
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 4876
+    }
+
+    clergymen = {
+        culture = gaul
+        religion = placeholder
+        size = 15
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 6
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 29
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 191
+    }
+
+    aristocrats = {
+        culture = gaul
+        religion = placeholder
+        size = 221
+    }
+
+    officers = {
+        culture = gaul
+        religion = placeholder
+        size = 29
+    }
+
+    bureaucrats = {
+        culture = gaul
+        religion = placeholder
+        size = 588
+    }
+
+    clergymen = {
+        culture = gaul
+        religion = placeholder
+        size = 239
+    }
+
+    capitalists = {
+        culture = gaul
+        religion = placeholder
+        size = 7
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 121
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 1458
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 1029
+    }
+
+    soldiers = {
+        culture = gaul
+        religion = placeholder
+        size = 441
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 17644
+    }
+
+    aristocrats = {
+        culture = gaul
+        religion = placeholder
+        size = 44
+    }
+
+    officers = {
+        culture = gaul
+        religion = placeholder
+        size = 66
+    }
+
+    bureaucrats = {
+        culture = gaul
+        religion = placeholder
+        size = 1176
+    }
+
+    clergymen = {
+        culture = gaul
+        religion = placeholder
+        size = 37
+    }
+
+    capitalists = {
+        culture = gaul
+        religion = placeholder
+        size = 22
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 35
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 529
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 1176
+    }
+
+    soldiers = {
+        culture = gaul
+        religion = placeholder
+        size = 162
+    }
+
+    labourers = {
+        culture = gaul
+        religion = placeholder
+        size = 830
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 9
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 44
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 181
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 2187
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 53
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 794
+    }
+}
+#Bruges (456000/114000 POPS)
+388 = {
+    aristocrats = {
+        culture = belgae
+        religion = placeholder
+        size = 1038
+    }
+
+    clergymen = {
+        culture = belgae
+        religion = placeholder
+        size = 1015
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 2528
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 8127
+    }
+
+    soldiers = {
+        culture = belgae
+        religion = placeholder
+        size = 1084
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 86198
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 3793
+    }
+
+    aristocrats = {
+        culture = gaul
+        religion = placeholder
+        size = 169
+    }
+
+    clergymen = {
+        culture = gaul
+        religion = placeholder
+        size = 165
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 412
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 1323
+    }
+
+    soldiers = {
+        culture = gaul
+        religion = placeholder
+        size = 176
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 14032
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 617
+    }
+}
+#Ghent (704000/176000 POPS)
+389 = {
+    aristocrats = {
+        culture = belgae
+        religion = placeholder
+        size = 1580
+    }
+
+    clergymen = {
+        culture = belgae
+        religion = placeholder
+        size = 1580
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 9030
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 2709
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 72
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 1806
+    }
+
+    soldiers = {
+        culture = belgae
+        religion = placeholder
+        size = 1580
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 133237
+    }
+
+    clergymen = {
+        culture = belgae
+        religion = placeholder
+        size = 135
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 4425
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 108
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 2709
+    }
+
+    aristocrats = {
+        culture = gaul
+        religion = placeholder
+        size = 257
+    }
+
+    clergymen = {
+        culture = gaul
+        religion = placeholder
+        size = 257
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 1470
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 441
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 12
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 294
+    }
+
+    soldiers = {
+        culture = gaul
+        religion = placeholder
+        size = 257
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 21690
+    }
+
+    clergymen = {
+        culture = gaul
+        religion = placeholder
+        size = 22
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 720
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 18
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 441
+    }
+}
+#Antwerp (354000/88500 POPS)
+390 = {
+    clergymen = {
+        culture = belgae
+        religion = placeholder
+        size = 90
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 36
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 1174
+    }
+
+    aristocrats = {
+        culture = belgae
+        religion = placeholder
+        size = 744
+    }
+
+    clergymen = {
+        culture = belgae
+        religion = placeholder
+        size = 786
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 7314
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 108
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 5490
+    }
+
+    soldiers = {
+        culture = belgae
+        religion = placeholder
+        size = 993
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 52103
+    }
+
+    clergymen = {
+        culture = belgae
+        religion = placeholder
+        size = 45
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 2640
+    }
+
+    soldiers = {
+        culture = belgae
+        religion = placeholder
+        size = 21
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 54
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 163
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 8235
+    }
+
+    clergymen = {
+        culture = gaul
+        religion = placeholder
+        size = 15
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 6
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 191
+    }
+
+    aristocrats = {
+        culture = gaul
+        religion = placeholder
+        size = 121
+    }
+
+    clergymen = {
+        culture = gaul
+        religion = placeholder
+        size = 128
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 1191
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 18
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 894
+    }
+
+    soldiers = {
+        culture = gaul
+        religion = placeholder
+        size = 162
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 8482
+    }
+
+    clergymen = {
+        culture = gaul
+        religion = placeholder
+        size = 7
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 430
+    }
+
+    soldiers = {
+        culture = gaul
+        religion = placeholder
+        size = 4
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 9
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 26
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 1341
+    }
+}
+#Hasselt (272000/68000 POPS)
+391 = {
+    aristocrats = {
+        culture = belgae
+        religion = placeholder
+        size = 587
+    }
+
+    clergymen = {
+        culture = belgae
+        religion = placeholder
+        size = 609
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 3160
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 722
+    }
+
+    soldiers = {
+        culture = belgae
+        religion = placeholder
+        size = 993
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 54337
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 1084
+    }
+
+    aristocrats = {
+        culture = gaul
+        religion = placeholder
+        size = 95
+    }
+
+    clergymen = {
+        culture = gaul
+        religion = placeholder
+        size = 99
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 515
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 118
+    }
+
+    soldiers = {
+        culture = gaul
+        religion = placeholder
+        size = 162
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 8846
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 176
+    }
+}
+#Wallonia Region (1432000)
+#Liege (388000/97000 POPS)
+392 = {
+    aristocrats = {
+        culture = belgae
+        religion = placeholder
+        size = 767
+    }
+
+    officers = {
+        culture = belgae
+        religion = placeholder
+        size = 316
+    }
+
+    bureaucrats = {
+        culture = belgae
+        religion = placeholder
+        size = 6321
+    }
+
+    clergymen = {
+        culture = belgae
+        religion = placeholder
+        size = 767
+    }
+
+    capitalists = {
+        culture = belgae
+        religion = placeholder
+        size = 135
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 144
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 4108
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 5418
+    }
+
+    soldiers = {
+        culture = belgae
+        religion = placeholder
+        size = 3904
+    }
+
+    labourers = {
+        culture = belgae
+        religion = placeholder
+        size = 51019
+    }
+
+    clergymen = {
+        culture = belgae
+        religion = placeholder
+        size = 135
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 2438
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 36
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 117
+    }
+
+    labourers = {
+        culture = belgae
+        religion = placeholder
+        size = 7065
+    }
+
+    clergymen = {
+        culture = belgae
+        religion = placeholder
+        size = 67
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 3242
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 217
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 6163
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 54
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 175
+    }
+
+    aristocrats = {
+        culture = gaul
+        religion = placeholder
+        size = 125
+    }
+
+    officers = {
+        culture = gaul
+        religion = placeholder
+        size = 51
+    }
+
+    bureaucrats = {
+        culture = gaul
+        religion = placeholder
+        size = 1029
+    }
+
+    clergymen = {
+        culture = gaul
+        religion = placeholder
+        size = 125
+    }
+
+    capitalists = {
+        culture = gaul
+        religion = placeholder
+        size = 22
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 24
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 669
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 882
+    }
+
+    soldiers = {
+        culture = gaul
+        religion = placeholder
+        size = 636
+    }
+
+    labourers = {
+        culture = gaul
+        religion = placeholder
+        size = 8306
+    }
+
+    clergymen = {
+        culture = gaul
+        religion = placeholder
+        size = 22
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 397
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 6
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 19
+    }
+
+    labourers = {
+        culture = gaul
+        religion = placeholder
+        size = 1150
+    }
+
+    clergymen = {
+        culture = gaul
+        religion = placeholder
+        size = 11
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 528
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 35
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 1003
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 9
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 29
+    }
+}
+#Tournai (292000/73000 POPS)
+393 = {
+    clergymen = {
+        culture = belgae
+        religion = placeholder
+        size = 90
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 993
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 108
+    }
+
+    soldiers = {
+        culture = belgae
+        religion = placeholder
+        size = 90
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 7675
+    }
+
+    aristocrats = {
+        culture = belgae
+        religion = placeholder
+        size = 632
+    }
+
+    clergymen = {
+        culture = belgae
+        religion = placeholder
+        size = 563
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 217
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 4334
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 2257
+    }
+
+    soldiers = {
+        culture = belgae
+        religion = placeholder
+        size = 993
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 50184
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 163
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 325
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 6502
+    }
+
+    clergymen = {
+        culture = gaul
+        religion = placeholder
+        size = 15
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 162
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 18
+    }
+
+    soldiers = {
+        culture = gaul
+        religion = placeholder
+        size = 15
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 1250
+    }
+
+    aristocrats = {
+        culture = gaul
+        religion = placeholder
+        size = 103
+    }
+
+    clergymen = {
+        culture = gaul
+        religion = placeholder
+        size = 92
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 35
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 706
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 368
+    }
+
+    soldiers = {
+        culture = gaul
+        religion = placeholder
+        size = 162
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 8169
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 26
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 53
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 1058
+    }
+}
+#Charleroi (396000/99000 POPS)
+394 = {
+    clergymen = {
+        culture = belgae
+        religion = placeholder
+        size = 90
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 1354
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 36
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 144
+    }
+
+    soldiers = {
+        culture = belgae
+        religion = placeholder
+        size = 112
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 8826
+    }
+
+    aristocrats = {
+        culture = belgae
+        religion = placeholder
+        size = 813
+    }
+
+    clergymen = {
+        culture = belgae
+        religion = placeholder
+        size = 789
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 217
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 5165
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 2709
+    }
+
+    soldiers = {
+        culture = belgae
+        religion = placeholder
+        size = 993
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 59890
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 54
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 217
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 325
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 7748
+    }
+
+    clergymen = {
+        culture = gaul
+        religion = placeholder
+        size = 15
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 221
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 6
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 24
+    }
+
+    soldiers = {
+        culture = gaul
+        religion = placeholder
+        size = 18
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 1437
+    }
+
+    aristocrats = {
+        culture = gaul
+        religion = placeholder
+        size = 132
+    }
+
+    clergymen = {
+        culture = gaul
+        religion = placeholder
+        size = 129
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 35
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 841
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 441
+    }
+
+    soldiers = {
+        culture = gaul
+        religion = placeholder
+        size = 162
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 9750
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 9
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 35
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 53
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 1261
+    }
+}
+#Namur (212000/53000 POPS)
+395 = {
+    aristocrats = {
+        culture = belgae
+        religion = placeholder
+        size = 466
+    }
+
+    clergymen = {
+        culture = belgae
+        religion = placeholder
+        size = 466
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 144
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 2528
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 1806
+    }
+
+    soldiers = {
+        culture = belgae
+        religion = placeholder
+        size = 993
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 38377
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 217
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 3793
+    }
+
+    aristocrats = {
+        culture = gaul
+        religion = placeholder
+        size = 76
+    }
+
+    clergymen = {
+        culture = gaul
+        religion = placeholder
+        size = 76
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 24
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 412
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 294
+    }
+
+    soldiers = {
+        culture = gaul
+        religion = placeholder
+        size = 162
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 6248
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 35
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 617
+    }
+}
+#Spa (144000/36000 POPS)
+396 = {
+    aristocrats = {
+        culture = belgae
+        religion = placeholder
+        size = 195
+    }
+
+    clergymen = {
+        culture = belgae
+        religion = placeholder
+        size = 244
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 1084
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 72
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 722
+    }
+
+    soldiers = {
+        culture = belgae
+        religion = placeholder
+        size = 993
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 19933
+    }
+
+    clergymen = {
+        culture = belgae
+        religion = placeholder
+        size = 67
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 316
+    }
+
+    soldiers = {
+        culture = belgae
+        religion = placeholder
+        size = 90
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 7652
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 108
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 1084
+    }
+
+    aristocrats = {
+        culture = gaul
+        religion = placeholder
+        size = 32
+    }
+
+    clergymen = {
+        culture = gaul
+        religion = placeholder
+        size = 40
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 176
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 12
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 118
+    }
+
+    soldiers = {
+        culture = gaul
+        religion = placeholder
+        size = 162
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 3245
+    }
+
+    clergymen = {
+        culture = gaul
+        religion = placeholder
+        size = 11
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 51
+    }
+
+    soldiers = {
+        culture = gaul
+        religion = placeholder
+        size = 15
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 1246
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 18
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 176
+    }
+}
+#Luxembourg Region (172000)
+#Arlon (172000/43000 POPS)
+398 = {
+    aristocrats = {
+        culture = belgae
+        religion = placeholder
+        size = 406
+    }
+
+    clergymen = {
+        culture = belgae
+        religion = placeholder
+        size = 383
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 1806
+    }
+
+    soldiers = {
+        culture = belgae
+        religion = placeholder
+        size = 993
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 35329
+    }
+
+    aristocrats = {
+        culture = gaul
+        religion = placeholder
+        size = 66
+    }
+
+    clergymen = {
+        culture = gaul
+        religion = placeholder
+        size = 62
+    }
+
+    artisans = {
+        culture = gaul
+        religion = placeholder
+        size = 294
+    }
+
+    soldiers = {
+        culture = gaul
+        religion = placeholder
+        size = 162
+    }
+
+    farmers = {
+        culture = gaul
+        religion = placeholder
+        size = 5751
+    }
+}

@@ -1,0 +1,10 @@
+owner = ARM
+controller = ARM
+add_core = ARM
+trade_goods = grain
+life_rating = 37
+1861.1.1 = {
+owner = RUS
+controller = RUS
+}
+

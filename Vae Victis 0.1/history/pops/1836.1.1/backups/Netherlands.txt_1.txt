@@ -1,0 +1,887 @@
+#Holland & Zeeland Region - 1353000
+#Amsterdam (464000/116000 POPS)
+375 = {
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 150
+    }
+
+    clerks = {
+        culture = norse
+        religion = placeholder
+        size = 150
+    }
+
+    craftsmen = {
+        culture = norse
+        religion = placeholder
+        size = 1350
+    }
+
+    artisans = {
+        culture = north_german
+        religion = placeholder
+        size = 1770
+    }
+
+    aristocrats = {
+        culture = norse
+        religion = placeholder
+        size = 750
+    }
+
+    officers = {
+        culture = norse
+        religion = placeholder
+        size = 75
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = placeholder
+        size = 2400
+    }
+
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 825
+    }
+
+    artisans = {
+        culture = north_german
+        religion = placeholder
+        size = 3000
+    }
+
+    artisans = {
+        culture = north_german
+        religion = placeholder
+        size = 3000
+    }
+
+    artisans = {
+        culture = north_german
+        religion = placeholder
+        size = 3000
+    }
+
+    artisans = {
+        culture = north_german
+        religion = placeholder
+        size = 2730
+    }
+
+    clerks = {
+        culture = norse
+        religion = placeholder
+        size = 150
+    }
+
+    craftsmen = {
+        culture = norse
+        religion = placeholder
+        size = 5850
+    }
+
+    soldiers = {
+        culture = norse
+        religion = placeholder
+        size = 1650
+    }
+
+    farmers = {
+        culture = north_german
+        religion = placeholder
+        size = 17760
+    }
+
+    craftsmen = {
+        culture = norse
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = north_german
+        religion = placeholder
+        size = 870
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 7080
+    }
+
+    bureaucrats = {
+        culture = norse
+        religion = placeholder
+        size = 9600
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 12000
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 12000
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 12000
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 10920
+    }
+
+    farmers = {
+        culture = norse
+        religion = placeholder
+        size = 71040
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 3480
+    }
+}
+#Rotterdam (567000/141750 POPS)
+376 = {
+    aristocrats = {
+        culture = norse
+        religion = placeholder
+        size = 1125
+    }
+
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 937
+    }
+
+    artisans = {
+        culture = north_german
+        religion = placeholder
+        size = 3000
+    }
+
+    artisans = {
+        culture = north_german
+        religion = placeholder
+        size = 2010
+    }
+
+    craftsmen = {
+        culture = norse
+        religion = placeholder
+        size = 70000
+    }
+
+    soldiers = {
+        culture = norse
+        religion = placeholder
+        size = 1875
+    }
+
+    farmers = {
+        culture = north_german
+        religion = placeholder
+        size = 23437
+    }
+
+    craftsmen = {
+        culture = norse
+        religion = placeholder
+        size = 300
+    }
+
+    artisans = {
+        culture = north_german
+        religion = placeholder
+        size = 390
+    }
+
+    artisans = {
+        culture = north_german
+        religion = placeholder
+        size = 330
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 12000
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 8040
+    }
+
+    farmers = {
+        culture = norse
+        religion = placeholder
+        size = 93750
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 1560
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 1320
+    }
+}
+#Utrecht (152000/38000 POPS)
+377 = {
+    aristocrats = {
+        culture = norse
+        religion = placeholder
+        size = 450
+    }
+
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 332
+    }
+
+    artisans = {
+        culture = north_german
+        religion = placeholder
+        size = 15000
+    }
+
+    artisans = {
+        culture = north_german
+        religion = placeholder
+        size = 1500
+    }
+
+    craftsmen = {
+        culture = norse
+        religion = placeholder
+        size = 1500
+    }
+
+    soldiers = {
+        culture = norse
+        religion = placeholder
+        size = 1650
+    }
+
+    farmers = {
+        culture = north_german
+        religion = placeholder
+        size = 36787
+    }
+}
+#Middelburg (170000/42500 POPS)
+378 = {
+    aristocrats = {
+        culture = norse
+        religion = placeholder
+        size = 450
+    }
+
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 300
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 510
+    }
+
+    soldiers = {
+        culture = norse
+        religion = placeholder
+        size = 1650
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 11190
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 45
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 330
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 2040
+    }
+
+    farmers = {
+        culture = norse
+        religion = placeholder
+        size = 44760
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 180
+    }
+
+    farmers = {
+        culture = norse
+        religion = placeholder
+        size = 1320
+    }
+}
+#Limburg-Gelderland Region - 979400
+#Eindhoven (230000/57500 POPS)
+379 = {
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 262
+    }
+
+    aristocrats = {
+        culture = belgae
+        religion = placeholder
+        size = 420
+    }
+
+    officers = {
+        culture = belgae
+        religion = placeholder
+        size = 52
+    }
+
+    bureaucrats = {
+        culture = belgae
+        religion = placeholder
+        size = 525
+    }
+
+    clergymen = {
+        culture = belgae
+        religion = placeholder
+        size = 315
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 2257
+    }
+
+    soldiers = {
+        culture = belgae
+        religion = placeholder
+        size = 1155
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 114275
+    }
+
+    clergymen = {
+        culture = belgae
+        religion = placeholder
+        size = 52
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 157
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 3150
+    }
+}
+#Breda (173200/43300 POPS)
+380 = {
+    aristocrats = {
+        culture = belgae
+        religion = placeholder
+        size = 315
+    }
+
+    clergymen = {
+        culture = belgae
+        religion = placeholder
+        size = 210
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 3937
+    }
+
+    soldiers = {
+        culture = belgae
+        religion = placeholder
+        size = 1155
+    }
+
+    labourers = {
+        culture = belgae
+        religion = placeholder
+        size = 36452
+    }
+}
+#Maastricht (164200/41050 POPS)
+381 = {
+    aristocrats = {
+        culture = belgae
+        religion = placeholder
+        size = 315
+    }
+
+    clergymen = {
+        culture = belgae
+        religion = placeholder
+        size = 210
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 4200
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 84
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 1680
+    }
+
+    soldiers = {
+        culture = belgae
+        religion = placeholder
+        size = 1155
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 31867
+    }
+
+    farmers = {
+        culture = belgae
+        religion = placeholder
+        size = 1155
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 126
+    }
+
+    artisans = {
+        culture = belgae
+        religion = placeholder
+        size = 2520
+    }
+}
+#Arnhem (412000/103000 POPS)
+382 = {
+    artisans = {
+        culture = north_german
+        religion = placeholder
+        size = 375
+    }
+
+    aristocrats = {
+        culture = norse
+        religion = placeholder
+        size = 575
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = placeholder
+        size = 550
+    }
+
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 375
+    }
+
+    artisans = {
+        culture = north_german
+        religion = placeholder
+        size = 2250
+    }
+
+    craftsmen = {
+        culture = norse
+        religion = placeholder
+        size = 2250
+    }
+
+    soldiers = {
+        culture = norse
+        religion = placeholder
+        size = 825
+    }
+
+    farmers = {
+        culture = north_german
+        religion = placeholder
+        size = 30525
+    }
+
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 40
+    }
+
+    craftsmen = {
+        culture = norse
+        religion = placeholder
+        size = 190
+    }
+
+    farmers = {
+        culture = north_german
+        religion = placeholder
+        size = 2400
+    }
+}
+3257 = {
+    artisans = {
+        culture = north_german
+        religion = placeholder
+        size = 375
+    }
+
+    aristocrats = {
+        culture = norse
+        religion = placeholder
+        size = 575
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = placeholder
+        size = 550
+    }
+
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 375
+    }
+
+    artisans = {
+        culture = north_german
+        religion = placeholder
+        size = 2250
+    }
+
+    craftsmen = {
+        culture = norse
+        religion = placeholder
+        size = 2250
+    }
+
+    soldiers = {
+        culture = norse
+        religion = placeholder
+        size = 825
+    }
+
+    farmers = {
+        culture = north_german
+        religion = placeholder
+        size = 30525
+    }
+
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 40
+    }
+
+    craftsmen = {
+        culture = norse
+        religion = placeholder
+        size = 190
+    }
+
+    farmers = {
+        culture = north_german
+        religion = placeholder
+        size = 2400
+    }
+}
+#Friesland-Groningen Region : 713800
+#Groningen (186600/46650 POPS)
+383 = {
+    artisans = {
+        culture = north_german
+        religion = placeholder
+        size = 375
+    }
+
+    aristocrats = {
+        culture = norse
+        religion = placeholder
+        size = 450
+    }
+
+    officers = {
+        culture = norse
+        religion = placeholder
+        size = 225
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = placeholder
+        size = 6000
+    }
+
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 300
+    }
+
+    artisans = {
+        culture = north_german
+        religion = placeholder
+        size = 10500
+    }
+
+    soldiers = {
+        culture = norse
+        religion = placeholder
+        size = 6000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = placeholder
+        size = 53175
+    }
+
+    labourers = {
+        culture = north_german
+        religion = placeholder
+        size = 1650
+    }
+}
+#Zwolle (238000/59500 POPS)
+384 = {
+    aristocrats = {
+        culture = norse
+        religion = placeholder
+        size = 375
+    }
+
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 225
+    }
+
+    artisans = {
+        culture = north_german
+        religion = placeholder
+        size = 2925
+    }
+
+    soldiers = {
+        culture = norse
+        religion = placeholder
+        size = 825
+    }
+
+    farmers = {
+        culture = north_german
+        religion = placeholder
+        size = 32100
+    }
+
+    artisans = {
+        culture = north_german
+        religion = placeholder
+        size = 75
+    }
+
+    farmers = {
+        culture = north_german
+        religion = placeholder
+        size = 675
+    }
+}
+3256 = {
+    aristocrats = {
+        culture = norse
+        religion = placeholder
+        size = 375
+    }
+
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 225
+    }
+
+    artisans = {
+        culture = north_german
+        religion = placeholder
+        size = 2925
+    }
+
+    soldiers = {
+        culture = norse
+        religion = placeholder
+        size = 825
+    }
+
+    farmers = {
+        culture = north_german
+        religion = placeholder
+        size = 32100
+    }
+
+    artisans = {
+        culture = north_german
+        religion = placeholder
+        size = 75
+    }
+
+    farmers = {
+        culture = north_german
+        religion = placeholder
+        size = 675
+    }
+}
+#Leeuwarden (209200/52300 POPS)
+385 = {
+    aristocrats = {
+        culture = norse
+        religion = placeholder
+        size = 450
+    }
+
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 412
+    }
+
+    artisans = {
+        culture = north_german
+        religion = placeholder
+        size = 1800
+    }
+
+    soldiers = {
+        culture = norse
+        religion = placeholder
+        size = 1650
+    }
+
+    farmers = {
+        culture = north_german
+        religion = placeholder
+        size = 13417
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 7200
+    }
+
+    farmers = {
+        culture = norse
+        religion = placeholder
+        size = 53670
+    }
+}
+#Assen (80000/20000 POPS)
+386 = {
+    aristocrats = {
+        culture = norse
+        religion = placeholder
+        size = 225
+    }
+
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = north_german
+        religion = placeholder
+        size = 1650
+    }
+
+    soldiers = {
+        culture = norse
+        religion = placeholder
+        size = 1650
+    }
+
+    farmers = {
+        culture = north_german
+        religion = placeholder
+        size = 25125
+    }
+
+    farmers = {
+        culture = north_german
+        religion = placeholder
+        size = 1650
+    }
+}

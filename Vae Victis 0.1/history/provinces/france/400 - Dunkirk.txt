@@ -1,0 +1,8 @@
+owner = GAU
+controller = GAU
+add_core = BEL
+colonial = 2
+trade_goods = fish
+life_rating = 38
+1861.1.1 = { railroad = 3 }
+

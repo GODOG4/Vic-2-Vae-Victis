@@ -1,0 +1,1170 @@
+#Cundinamarca Region (584000)
+#Ruled by Colombia 1836
+#Bogota (240000/60000 POPS)
+2247 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 1284
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 228
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 174
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 534
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2670
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 13362
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 53394
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 48
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 204
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 18
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2544
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1284
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 48
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 204
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 48
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3804
+    }
+}
+#Ibaque (88000/22000 POPS)
+2248 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 456
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 204
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 972
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 204
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 17700
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 6
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 48
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 6
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 696
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 252
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 18
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 96
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 18
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1902
+    }
+}
+#Tunja (56000/14000 POPS)
+2249 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 306
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 96
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 456
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 96
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 8280
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 48
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 252
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 48
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 4836
+    }
+}
+#Manizales (116000/29000 POPS)
+2250 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 636
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 276
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1488
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1128
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 27432
+    }
+}
+#Cucuta (84000/21000 POPS)
+2251 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 360
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 822
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 174
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 14946
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 48
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 252
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 48
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 4782
+    }
+}
+#Antioquia Region (452000)
+#Ruled by Colombia 1836
+#Medellin (128000/32000 POPS)
+2252 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 666
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 126
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 204
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1128
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1128
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 17370
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 48
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 408
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 72
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 5634
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3084
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 18
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 18
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2880
+    }
+}
+#Quibdo (48000/12000 POPS)
+2253 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 252
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 48
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 252
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 48
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 4524
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 72
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 360
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 72
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1542
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 5142
+    }
+}
+#Cartagena de Indias (144000/36000 POPS)
+2254 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 720
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 126
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 666
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1128
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 10884
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 72
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1080
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 204
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 16128
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 4116
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 18
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 96
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 18
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1902
+    }
+}
+#Barranquilla (132000/33000 POPS)
+2255 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 666
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 126
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 666
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1128
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 10884
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 96
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 924
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 204
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 15228
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3084
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 6
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 48
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 6
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 954
+    }
+}
+#Cauca Region (300000)
+#Ruled by Colombia 1836
+#Cali (92000/23000 POPS)
+2256 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 486
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 96
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 96
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 174
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 870
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1128
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 14718
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 48
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 48
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2052
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 768
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 48
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 18
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2850
+    }
+}
+#Popayan (68000/17000 POPS)
+2257 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 360
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 96
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 564
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 126
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 10158
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 72
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 306
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 72
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 5706
+    }
+}
+#Buenaventura (60000/15000 POPS)
+2258 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 330
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 72
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 456
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 48
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3186
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 18
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 96
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 72
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1848
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 5142
+    }
+}
+#Pasto (80000/20000 POPS)
+2259 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 432
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 96
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 456
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 96
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 8154
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 48
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 564
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 126
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 10572
+    }
+}
+#Rio Negro Region (128000) #see Brazil.txt for balance of region
+#Ruled by Colombia 1836
+#San Jose del Guaviare (36000/9000 POPS)
+2260 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 72
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 72
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 18
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2748
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 174
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 84
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 528
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 126
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 9714
+    }
+}
+#Obando (20000/5000 POPS)
+2261 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 126
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 84
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 438
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 84
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 8118
+    }
+}
+#Casanare (60000/15000 POPS)
+2262 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 126
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 18
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 18
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 72
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 204
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 48
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3600
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 216
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 126
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 708
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 126
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 12996
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 18
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 18
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1590
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1284
+    }
+}
+#El Encanto (12000/3000 POPS)
+2263 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 84
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 126
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 264
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 42
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 4788
+    }
+}

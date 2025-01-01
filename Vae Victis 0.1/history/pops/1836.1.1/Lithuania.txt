@@ -1,0 +1,1134 @@
+#Lithuania Region (1272000)
+#under the rule of Russia in 1836
+#Vilnius (168000/42000 POPS)
+360 = {
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 123
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 2050
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 902
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 10168
+    }
+
+    aristocrats = {
+        culture = lithuanian
+        religion = placeholder
+        size = 1250
+    }
+
+    bureaucrats = {
+        culture = lithuanian
+        religion = placeholder
+        size = 1125
+    }
+
+    officers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 250
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 82
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 3075
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 82
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 3546
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 123
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 2665
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 123
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 10209
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 27
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 450
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 198
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 2232
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 18
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 675
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 18
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 779
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 27
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 585
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 27
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 2241
+    }
+}
+#Kaunas (204000/51000 POPS)
+361 = {
+    aristocrats = {
+        culture = lithuanian
+        religion = placeholder
+        size = 950
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 328
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 943
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 902
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 30750
+    }
+
+    aristocrats = {
+        culture = lithuanian
+        religion = placeholder
+        size = 250
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 123
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 20
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 451
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 61
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 1476
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 61
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 5781
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 72
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 207
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 198
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 6750
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 5
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 27
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 5
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 99
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 324
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 14
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 1269
+    }
+}
+#Marjampole (240000/60000 POPS)
+362 = {
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 205
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 1230
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 205
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 20500
+    }
+
+    aristocrats = {
+        culture = lithuanian
+        religion = placeholder
+        size = 1950
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 225
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 984
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 246
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 10844
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 61
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 1148
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 82
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 6908
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 61
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 164
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 41
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 3013
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 45
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 270
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 45
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 4500
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 50
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 216
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 54
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 2381
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 252
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 18
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 1517
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 36
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 9
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 662
+    }
+}
+#Panevezys (204000/51000 POPS)
+363 = {
+    aristocrats = {
+        culture = lithuanian
+        religion = placeholder
+        size = 1025
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 307
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 1435
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 307
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 28269
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 61
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 2460
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 82
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 5596
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 164
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 20
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 615
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 41
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 82
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 20
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 1496
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 68
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 315
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 68
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 6206
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 540
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 18
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 1229
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 5
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 36
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 5
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 135
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 9
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 18
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 5
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 329
+    }
+}
+#Siauliai (200000/50000 POPS)
+364 = {
+    aristocrats = {
+        culture = lithuanian
+        religion = placeholder
+        size = 900
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 328
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 1025
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 348
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 32820
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 102
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 1148
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 61
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 4428
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 72
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 225
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 77
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 7205
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 23
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 252
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 14
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 972
+    }
+}
+#Palanga (84000/21000 POPS)
+365 = {
+    aristocrats = {
+        culture = lithuanian
+        religion = placeholder
+        size = 350
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 123
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 410
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 143
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 12976
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 41
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 492
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 20
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 1906
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 82
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 20
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 697
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 27
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 90
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 32
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 2849
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 9
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 108
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 5
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 419
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 5
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 18
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 5
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 153
+    }
+}
+#East Prussia Region (172000) #see Poland.txt and Lithuania.txt for balance of region
+#under the rule of Prussia in 1836
+#Memel (172000/43000 POPS) #now part of Lithuania
+698 = {
+    aristocrats = {
+        culture = lithuanian
+        religion = placeholder
+        size = 750
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 164
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 1968
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 586
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 15990
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 4
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 119
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 123
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 779
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 586
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 14022
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 316
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 316
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 36
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 432
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 129
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 3510
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 1
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 26
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = placeholder
+        size = 27
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = placeholder
+        size = 171
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 129
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 3078
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 69
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = placeholder
+        size = 69
+    }
+}

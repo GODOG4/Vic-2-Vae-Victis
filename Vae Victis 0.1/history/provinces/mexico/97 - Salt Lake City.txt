@@ -1,0 +1,11 @@
+
+
+
+#add_core = DES
+trade_goods = coal
+life_rating = 15
+1861.1.1 = {
+owner = USA
+controller = USA
+add_core = USA
+}

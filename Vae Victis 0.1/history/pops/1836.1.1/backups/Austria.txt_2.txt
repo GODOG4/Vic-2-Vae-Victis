@@ -1,0 +1,680 @@
+#Tirol Region (556000) #see Italy.txt for balance of Region
+#under the rule of Austria in 1836
+#Innsbruck (236000/59000 POPS)
+612 = {
+    aristocrats = {
+        culture = south_german
+        religion = placeholder
+        size = 525
+    }
+
+    bureaucrats = {
+        culture = south_german
+        religion = placeholder
+        size = 2362
+    }
+
+    officers = {
+        culture = south_german
+        religion = placeholder
+        size = 175
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 385
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 1925
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 770
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 37327
+    }
+
+    aristocrats = {
+        culture = romana
+        religion = placeholder
+        size = 1270
+    }
+
+    bureaucrats = {
+        culture = romana
+        religion = placeholder
+        size = 1215
+    }
+
+    officers = {
+        culture = romana
+        religion = placeholder
+        size = 2090
+    }
+
+    clergymen = {
+        culture = romana
+        religion = placeholder
+        size = 1198
+    }
+
+    artisans = {
+        culture = romana
+        religion = placeholder
+        size = 3990
+    }
+
+    soldiers = {
+        culture = romana
+        religion = placeholder
+        size = 1396
+    }
+
+    farmers = {
+        culture = romana
+        religion = placeholder
+        size = 22197
+    }
+}
+#Salzburg (136000/34000 POPS)
+613 = {
+    aristocrats = {
+        culture = south_german
+        religion = placeholder
+        size = 315
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 455
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 2275
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 770
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 20282
+    }
+
+    aristocrats = {
+        culture = romana
+        religion = placeholder
+        size = 1162
+    }
+
+    clergymen = {
+        culture = romana
+        religion = placeholder
+        size = 1234
+    }
+
+    artisans = {
+        culture = romana
+        religion = placeholder
+        size = 3170
+    }
+
+    soldiers = {
+        culture = romana
+        religion = placeholder
+        size = 1396
+    }
+
+    farmers = {
+        culture = romana
+        religion = placeholder
+        size = 14431
+    }
+}
+#Bregenz (132000/33000 POPS)
+614 = {
+    aristocrats = {
+        culture = south_german
+        religion = placeholder
+        size = 280
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 210
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 1050
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 770
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 20790
+    }
+
+    aristocrats = {
+        culture = romana
+        religion = placeholder
+        size = 1144
+    }
+
+    clergymen = {
+        culture = romana
+        religion = placeholder
+        size = 1108
+    }
+
+    artisans = {
+        culture = romana
+        religion = placeholder
+        size = 3540
+    }
+
+    soldiers = {
+        culture = romana
+        religion = placeholder
+        size = 1396
+    }
+
+    farmers = {
+        culture = romana
+        religion = placeholder
+        size = 14692
+    }
+}
+#Lienz (52000/13000 POPS)
+615 = {
+    aristocrats = {
+        culture = romana
+        religion = placeholder
+        size = 308
+    }
+
+    clergymen = {
+        culture = romana
+        religion = placeholder
+        size = 220
+    }
+
+    artisans = {
+        culture = romana
+        religion = placeholder
+        size = 1061
+    }
+
+    soldiers = {
+        culture = romana
+        religion = placeholder
+        size = 220
+    }
+
+    farmers = {
+        culture = romana
+        religion = placeholder
+        size = 21181
+    }
+}
+#Carinthia-Styria Region (736000) #see Slovenia.txt for balance of Region
+#under the rule of Austria in 1836
+#Graz (380000/95000 POPS)
+616 = {
+    aristocrats = {
+        culture = south_german
+        religion = placeholder
+        size = 930
+    }
+
+    bureaucrats = {
+        culture = south_german
+        religion = placeholder
+        size = 1575
+    }
+
+    officers = {
+        culture = south_german
+        religion = placeholder
+        size = 165
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 615
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 900
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 6000
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 690
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 47445
+    }
+}
+#Judenburg (168000/42000 POPS)
+617 = {
+    aristocrats = {
+        culture = south_german
+        religion = placeholder
+        size = 420
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 270
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 1350
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 270
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 22890
+    }
+}
+#Klagenfurt (188000/47000 POPS)
+618 = {
+    aristocrats = {
+        culture = south_german
+        religion = placeholder
+        size = 270
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 195
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 1930
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 1660
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 25405
+    }
+
+    clergymen = {
+        culture = romana
+        religion = placeholder
+        size = 105
+    }
+
+    artisans = {
+        culture = romana
+        religion = placeholder
+        size = 570
+    }
+
+    soldiers = {
+        culture = romana
+        religion = placeholder
+        size = 1120
+    }
+
+    farmers = {
+        culture = romana
+        religion = placeholder
+        size = 20005
+    }
+}
+#Austria Region (2000000)
+#under the rule of Austria in 1836
+#Vienna (1084000/271000 POPS)
+619 = {
+    aristocrats = {
+        culture = south_german
+        religion = placeholder
+        size = 225
+    }
+
+    bureaucrats = {
+        culture = south_german
+        religion = placeholder
+        size = 540
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 660
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 60
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 11955
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 1260
+    }
+}
+#Sankt Polten (88000/22000 POPS)
+620 = {
+    aristocrats = {
+        culture = south_german
+        religion = placeholder
+        size = 2550
+    }
+
+    bureaucrats = {
+        culture = south_german
+        religion = placeholder
+        size = 4200
+    }
+
+    officers = {
+        culture = south_german
+        religion = placeholder
+        size = 360
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 1650
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 6000
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 6000
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 6000
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 6000
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 6000
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 45540
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 6000
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 119900
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 3540
+    }
+}
+#Krems (240000/60000 POPS)
+621 = {
+    aristocrats = {
+        culture = south_german
+        religion = placeholder
+        size = 555
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 375
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 1800
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 60
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 390
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 32820
+    }
+}
+#Linz (588000/147000 POPS)
+622 = {
+    aristocrats = {
+        culture = south_german
+        religion = placeholder
+        size = 2300
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 3200
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 7650
+    }
+
+    craftsmen = {
+        culture = south_german
+        religion = placeholder
+        size = 200
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 1550
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 133700
+    }
+}
+#Odenburg Region (196000) #see Hungary.txt for balance of region
+#under the rule of Austria in 1836
+#Eisenstadt (196000/49000 POPS)
+624 = {
+    aristocrats = {
+        culture = south_german
+        religion = placeholder
+        size = 420
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 285
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 1410
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 60
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 660
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 24825
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 60
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 90
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 60
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 1590
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 60
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 90
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 60
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 990
+    }
+}

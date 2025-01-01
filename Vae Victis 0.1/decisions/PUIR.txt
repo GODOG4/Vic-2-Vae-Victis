@@ -1,0 +1,34 @@
+political_decisions = {
+ 	cover_the_senne = {
+		potential = {
+			OR = { 
+				tag = BEL
+				tag = GAU
+			}
+			owns = 387
+			NOT = { has_country_flag = cover_the_senne }
+		}
+		
+		allow = {
+			war = no
+			invention = sanitation
+			invention = portland_cement
+		}
+
+		effect = {
+			set_country_flag = cover_the_senne
+			prestige = 20
+			387 = {
+				add_province_modifier = {
+					name = boulevards_of_brussels
+					duration = -1
+				}
+				life_rating = 2
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+}

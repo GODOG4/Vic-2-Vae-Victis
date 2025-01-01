@@ -1,0 +1,6 @@
+owner = TRT
+controller = TRT
+add_core = TRT
+trade_goods = sulphur
+life_rating = 35
+

@@ -1,0 +1,234 @@
+#Hibarbariana Region (952000) #see Bhutan.txt and India.txt for balance of region
+#under the rule of Nepal in 1836
+#Katmandu (540000/135000 POPS)
+1326 = {
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 1280
+    }
+
+    bureaucrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 112
+    }
+
+    officers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 144
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 704
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 2592
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 2800
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 55200
+    }
+
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 128
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 64
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 304
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 40
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 6480
+    }
+
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 256
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 144
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 672
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 80
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 13520
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 2800
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 40
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 80
+    }
+}
+#Jumla (412000/103000 POPS)
+1327 = {
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 576
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 288
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 1472
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 440
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 31520
+    }
+
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 448
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 240
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 1184
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 140
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 21584
+    }
+
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 224
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 128
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 608
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 80
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 11712
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 440
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 140
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 80
+    }
+}

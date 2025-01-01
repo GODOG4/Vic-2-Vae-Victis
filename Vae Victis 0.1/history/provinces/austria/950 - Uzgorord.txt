@@ -1,0 +1,6 @@
+owner = SIE
+controller = SIE
+add_core = SLV
+trade_goods = wool
+life_rating = 35
+
