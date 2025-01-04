@@ -13,19 +13,36 @@ The basic PoD is that Carthage won the Punic Wars and established a (short lived
 General Changes: 
 
 * Pop rebalances: 
-	* -33% and -25% pop nerfs to Northern Europe 
-	* 20-30% pop buffs to the Mediterranean and other important areas
-	* New World pops re-arranged and lowered
-	* Nerfed Indian by a large factor, even lower than LDA
+    * -33% and -25% pop nerfs to Northern Europe 
+    * 20-30% pop buffs to the Mediterranean and other important areas
+    * New World pops re-arranged and lowered
+    * Nerfed Indian by a large factor, even lower than LDA
 * New feature: Pop Group Assimilation
-	* Instead of having epic 'get accepted culture' decisions now there is a flat assimilation buff to any culture that is in your Culture Group
-	* Certain decisions with certain countries will either expand this bonus to other culture groups or give a targeted modifier to assimilate a single culture(s) that is often even stronger
-	* Getting extra accepted by decisions is extremely rare, the most a country will ever have is 1 extra culture and they usually will start with it. Assimilation is the focus
-* Imported LDA's New World colony system. 
-* Testing removing Mobilization buffs. Flat 2-4% the entire game.
-* Most of Northern Europe is unciv although the dumbest retards get a temporary Army buff to help them resist colonization for the first 10 years.
+    * Instead of having epic 'get accepted culture' decisions now there is a flat assimilation buff to any culture that is in your Culture Group
+    * Certain decisions with certain countries will either expand this bonus to other culture groups or give a targeted modifier to assimilate a single culture(s) that is often even stronger
+    * Getting extra accepted by decisions is extremely rare, the most a country will ever have is 1 extra culture and they usually will start with it. Assimilation is the focus
+* Imported LDA's New World colony system and added a new colony you can set up East Africa (Zanzibar) instead of South Africa
+* Testing removing Mobilization buffs. Flat 2-4% the entire game since assimilation is a big focus instead of just growing your core pop group.
+* Most of Northern Europe is unciv although they get a temporary Army buff to help them resist colonization for the first 10 years.
 * Extra Decisions from LDA but now based per Country and Religion and they last like 3-4 years at least.
-
-I'll write all the other details later, kys Ryan.
+* RGO changes. North europe nerfed and a lot of coal and sulphur moved to the 'civilized' world. 
+* The 'Crime' System has been repurposed now for *Monuments*. Several monuments exist at game start across the world which give it's province owner several different bonuses. Some countries can build new Monuments even.
 
 [Playable Countries](https://i.imgur.com/m2lVtVr.png)
+
+Future plans and ideas:
+
+* More religious decisions and ways for countries to convert to different religions.
+* Finishing LOC overhaul of Europe and North Africa. Lot of placeholder names and some names I took from Post Finem that I don't agree with.
+* More Monuments and some extra bonuses for certain monuments: For example in Illyria the Hall of the Pantheons will allow the currently holder to temporarily synchronize with another Religion and use their bonuses.
+* Late game decisions to shake up the end game of a campaign such as Hellenic nations with the 'Diadochi' flag getting special CBs on states of Alexander's Empire. Can be enabled or disabled by Host Nation.
+* Replacement for the Liberal Revolt where Hellenic and Punic nations deal with a great 'religious awakening' of their subjects trying to preserve or return to their old traditions, with a few nations able to take advantage of this chaos and go down alternative paths (Such as Seleucia embracing Babylonian/Assyrian gods and building Ziggurats although abandoning their Diadochi claim if they do so.)
+* Reworks of some nations with placeholder content (Persia for example) and finishing out Asia
+* Expanding upon LDA's colony system. Probably add ways to invest in your colony more and take colonies in wars and force culture on them.
+* Adding content for 6 optionally playable nations:
+	* Bactria
+	* Finland/Suomi
+	* Nephi/Lehi (yes this is Mormon LARP)
+	* Ammissae Legiones 
+	* Ashina Khaganate (Turkic China)
+	* Korea (won't be a normal Korea but still deciding on their LARP and they're low prio)
