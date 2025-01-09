@@ -1,6 +1,6 @@
 # Vic-2-Vae-Victis
 
-Current Release = 0.1 (Alpha Release, bugs galore are expected. Recommended to wait until 1.0 if you want a stable experience)
+Current Release = 0.2 (Alpha Release, approaching stability but still unproven in MP. Recommended to wait until 1.0 if you want a stable experience)
 
 Based loosely on the 'Post Finem' Eu4 mod but with many changes.
 
@@ -37,12 +37,13 @@ Future plans and ideas:
 * More Monuments and some extra bonuses for certain monuments: For example in Illyria the Hall of the Pantheons will allow the currently holder to temporarily synchronize with another Religion and use their bonuses.
 * Late game decisions to shake up the end game of a campaign such as Hellenic nations with the 'Diadochi' flag getting special CBs on states of Alexander's Empire. Can be enabled or disabled by Host Nation.
 * Replacement for the Liberal Revolt where Hellenic and Punic nations deal with a great 'religious awakening' of their subjects trying to preserve or return to their old traditions, with a few nations able to take advantage of this chaos and go down alternative paths (Such as Seleucia embracing Babylonian/Assyrian gods and building Ziggurats although abandoning their Diadochi claim if they do so.)
-* Reworks of some nations with placeholder content (Persia for example) and finishing out Asia
-* Expanding upon LDA's colony system. Probably add ways to invest in your colony more and take colonies in wars and force culture on them.
+* Reworks of some nations with placeholder content (Parthia for example) and finishing out Asia
+* Expanding upon LDA's colony system. Probably add ways to invest in your colony more
+* Adding navigable waterways in America, Kongo, China, etc.
 * Adding content for 6 optionally playable nations:
 	* Bactria
 	* Finland/Suomi
 	* Nephi/Lehi (yes this is Mormon LARP)
 	* Ammissae Legiones 
 	* Ashina Khaganate (Turkic China)
-	* Korea (won't be a normal Korea but still deciding on their LARP and they're low prio)
+	* Leland Commandery (Korea)
