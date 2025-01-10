@@ -1,0 +1,7 @@
+trade_goods = cotton
+life_rating = 30
+owner = CRO
+controller = CRO
+add_core = CRO
+colonial = 2 
+

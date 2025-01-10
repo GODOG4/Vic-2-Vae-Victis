@@ -1,0 +1,8 @@
+owner = EGY
+controller = EGY
+colonial = 2
+#add_core = INO
+trade_goods = coal
+life_rating = 30
+
+ 

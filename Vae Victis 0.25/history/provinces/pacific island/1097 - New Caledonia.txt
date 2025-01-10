@@ -1,0 +1,12 @@
+owner = YEM
+controller = YEM
+trade_goods = coffee
+life_rating = 35
+colonial = 1
+1861.1.1 = {
+	owner = FRA
+	controller = FRA
+	naval_base = 1
+	life_rating = 35
+}
+

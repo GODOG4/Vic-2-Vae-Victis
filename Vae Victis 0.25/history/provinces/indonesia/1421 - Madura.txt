@@ -1,0 +1,6 @@
+owner = YEM
+controller = YEM
+colonial = 2
+trade_goods = sulphur
+life_rating = 30
+ 
