@@ -6,7 +6,7 @@ Based loosely on the 'Post Finem' Eu4 mod but with many changes.
 
 Also loosely based on the  'Little Dark Age' mod.
 
-The base mod used is IGoR_puir v13.0.4
+The base mod used is IGoR_puir v13.0.4 with some features/changes from CoRGI and other IGoR forks.
 
 The basic PoD is that Carthage won the Punic Wars and established a (short lived) hegemony over the Western Mediterranean. The mod takes place in 666 AD although industrialization has already started to get going in the Punic and Hellenic worlds since 600 AD.
 
