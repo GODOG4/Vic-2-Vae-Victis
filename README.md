@@ -1,12 +1,12 @@
 # Vic-2-Vae-Victis
 
-Current Release = 0.2 (Alpha Release, approaching stability but still unproven in MP. Recommended to wait until 1.0 if you want a stable experience)
+Current Release = 0.25 (Alpha Release, approaching stability but still unproven in MP. Recommended to wait until 1.0 if you want a stable experience)
 
 Based loosely on the 'Post Finem' Eu4 mod but with many changes.
 
 Also loosely based on the  'Little Dark Age' mod.
 
-The base mod used is IGoR_puir v13.0.4
+The base mod used is IGoR_puir v13.0.4 with some features/changes from CoRGI and other IGoR forks.
 
 The basic PoD is that Carthage won the Punic Wars and established a (short lived) hegemony over the Western Mediterranean. The mod takes place in 666 AD although industrialization has already started to get going in the Punic and Hellenic worlds since 600 AD.
 
@@ -27,6 +27,7 @@ General Changes:
 * Extra Decisions from LDA but now based per Country and Religion and they last like 3-4 years at least.
 * RGO changes. North europe nerfed and a lot of coal and sulphur moved to the 'civilized' world. 
 * The 'Crime' System has been repurposed now for *Monuments*. Several monuments exist at game start across the world which give it's province owner several different bonuses. Some countries can build new Monuments even.
+* Navigable Rivers (Current list: Mississippi, Great Lakes/St Lawrence, Congo River, Amazon River)
 
 [Playable Countries](https://i.imgur.com/m2lVtVr.png)
 
