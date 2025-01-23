@@ -47,6 +47,7 @@
 	Zeraphite
 	Ukisi (Kongo)
 	Sevasm
+	Asherite
 
 *BALTO-SLAVIC
 	Kashubian
