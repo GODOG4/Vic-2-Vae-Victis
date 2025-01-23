@@ -1,5 +1,0 @@
-add_core = TEX
-
-
-trade_goods = sulphur
-life_rating = 20

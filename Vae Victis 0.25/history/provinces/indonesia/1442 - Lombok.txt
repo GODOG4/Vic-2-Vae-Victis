@@ -1,6 +1,0 @@
-owner = YEM
-controller = YEM
-#add_core = INO
-trade_goods = timber
-life_rating = 30
-colonial = 2

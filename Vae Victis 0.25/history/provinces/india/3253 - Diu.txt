@@ -1,7 +1,0 @@
-owner = YEM
-controller = YEM
-trade_goods = silk
-life_rating = 37
-naval_base = 1
-
-
